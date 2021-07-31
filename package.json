@@ -1,9 +1,9 @@
 {
-  "name": "whats-cookin",
+  "name": "grains-of-paradise",
   "version": "1.0.0",
-  "description": "Starter kit for Turing FE2 paired project",
+  "description": "Paired project in Mod 2 of Turing",
   "main": "index.js",
-  "homepage": "https://github.com/tylrs/whats-cookin",
+  "homepage": "https://github.com/andrewvallejo/grains-of-paradise",
   "devDependencies": {
     "chai": "^4.2.0",
     "css-loader": "^5.0.1",
@@ -28,7 +28,7 @@
     "test": "mochapack 'test/**/*.js'",
     "lint": "./node_modules/.bin/eslint 'src/**.js' 'test/**.js'"
   },
-  "author": "Turing School of Software and Design",
+  "author": "Andrew Vallejo & Taylor Galloway",
   "license": "MIT",
   "dependencies": {
     "sass": "^1.32.13"
